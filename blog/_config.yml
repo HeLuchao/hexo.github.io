@@ -5,8 +5,8 @@
 # Site
 title: HeLuChaoの博客
 subtitle: 心有猛虎，细嗅蔷薇！
-description: 
-keywords:
+description: 记录生活的点点滴滴
+keywords: 博客
 author: HeLuChao
 language: zh-Hans
 timezone:
@@ -35,7 +35,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
