@@ -81,6 +81,7 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:HeLuchao/hexo.github.io.git
+  coding: git@git.dev.tencent.com:chaochao940215/hexoBlog.git
   branch: master
 
 #表示站内搜索
